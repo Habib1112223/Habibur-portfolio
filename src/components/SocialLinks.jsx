@@ -32,7 +32,7 @@ const SocialLinks = () => {
           E-Mail <FaVoicemail size={30} />
         </>
       ),
-      href: "mailto:mohammadmohiuddin3490@gmail.com",
+      href: "mailto:webdevelopment.habib2023@gamil/com",
      
     },
     {
@@ -42,7 +42,7 @@ const SocialLinks = () => {
           Resume <GrResume />
         </>
       ),
-      href: "/public/My Resume.pdf",
+      href: "/public/React developer CV.pdf",
       style: "rounded-br-md",
       download: true,
     },
